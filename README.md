@@ -1,4 +1,4 @@
-# F1CarClassificaionDL
+# F1CarClassificationDL
 This repository contains all the code developed for Formula one cars image classification project using deep learning and flask as part of module BT5153 - NUS MSBA cohort 2022-23.
 
 
