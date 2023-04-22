@@ -37,14 +37,14 @@ The above diagram captures the main steps and the flow of the process:
 Dataset is from [kaggle]([https://www.flowkey.com/en](https://www.kaggle.com/datasets/vesuvius13/formula-one-cars)).
 
 Dataset contains following image combinations for different constructor teams:
-AlphaTauri : 123 Images
-Ferrari : 374 Images
-McLaren : 372 Images
-Mercedes : 324 Images
-Racing Point : 290 Images
-Red Bull : 340 Images
-Renault : 323 Images
-Williams : 340 Images
+* AlphaTauri : 123 Images
+* Ferrari : 374 Images
+* McLaren : 372 Images
+* Mercedes : 324 Images
+* Racing Point : 290 Images
+* Red Bull : 340 Images
+* Renault : 323 Images
+* Williams : 340 Images
 
 # preprocessing
 For image processing, [imgaug](https://imgaug.readthedocs.io/en/latest/) package was utilized.
