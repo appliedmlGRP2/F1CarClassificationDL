@@ -34,7 +34,7 @@ pip install -r requirements.txt
 The above diagram captures the main steps and the flow of the process:
 
 # Dataset <a id="dataset"></a>
-Dataset is from [kaggle]([https://www.flowkey.com/en](https://www.kaggle.com/datasets/vesuvius13/formula-one-cars).
+Dataset is from kaggle - [link](https://www.kaggle.com/datasets/vesuvius13/formula-one-cars)
 
 Dataset contains following image combinations for different constructor teams:
 * AlphaTauri : 123 Images
