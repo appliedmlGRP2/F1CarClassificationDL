@@ -17,8 +17,8 @@ The project aims to classify formula one car's images into one of the 8 construc
   * [Setup and Requirements](#installation)
   * [Working Pipeline](#pipeline)
   * [Dataset](#dataset) 
-  * [Imageaugmentation](#preprocessing)
-  * [Modelling](#models)
+  * [Image Augmentation](#preprocessing)
+  * [Modelling](#Modelling)
 
 
 # Setup and Requirements <a id="installation"></a>
