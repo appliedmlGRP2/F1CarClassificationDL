@@ -4,7 +4,7 @@
 
 
 
-This repository contains all the code developed for Formula one cars image classification project using deep learning and flask as part of module [BT5153 - NUS MSBA cohort 2022-23](https://bt5153msba.github.io/).
+This repository contains all the code developed for Formula one cars image classification project using deep learning and flask as part of module [BT5153 - NUS MSBA cohort 2022-23](https://bt5153msba.github.io/) - Group2.
 
 
 The project aims to classify formula one car's images into one of the 8 constructors (the teams):
