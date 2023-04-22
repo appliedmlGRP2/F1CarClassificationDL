@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 # Pipeline <a id="pipeline"></a>
-<img width="154" alt="image" src="https://user-images.githubusercontent.com/93938450/233798083-262100bb-daab-43d6-aa65-396f8139f103.png">
+<img width="284" alt="image" src="https://user-images.githubusercontent.com/93938450/233798456-3359f4ac-a7f4-4f5b-b82c-680055cb39ed.png">
 
 The above diagram captures the main steps and the flow of the process:
 
