@@ -18,7 +18,7 @@ The project aims to classify formula one car's images into one of the 8 construc
   * [Working Pipeline](#pipeline)
   * [Dataset](#dataset) 
   * [Imageaugmentation](#preprocessing)
-  * [Usage](#usage)
+  * [Modelling](#models)
 
 
 # Setup and Requirements <a id="installation"></a>
@@ -46,7 +46,7 @@ Dataset contains following image combinations for different constructor teams:
 * Renault : 323 Images
 * Williams : 340 Images
 
-# preprocessing
+# Preprocessing
 For image processing, [imgaug](https://imgaug.readthedocs.io/en/latest/) package was utilized.
 
 We perform the following augmentations sequentially:
@@ -58,9 +58,12 @@ We perform the following augmentations sequentially:
 
 ![image](https://user-images.githubusercontent.com/93938450/233798183-d3f54203-56b0-4b20-aaaa-bb39468e1ec5.png)
 
+# Modelling
+* Baseline CNN Model
+* ResNet-18 - Finetuned with and w/o layers freeze.
+* VGG-16 - Finetuned with and w/o layers freeze.
+* MobileNet_V2 - Finetuned with and w/o layers freeze.
 
-# Usage
-To run the webapp, please follow the instrucitons in the notebook.
 
 
 
