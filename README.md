@@ -1,6 +1,6 @@
 # Boosting Fan Experience with F1 Car Image Analysis
 
-<img width="517" alt="Webapp" src="https://user-images.githubusercontent.com/93938450/233799574-d226a25a-ca48-4eed-be8c-66595e9e6083.png">
+<img width="617" alt="Webapp" src="https://user-images.githubusercontent.com/93938450/233799574-d226a25a-ca48-4eed-be8c-66595e9e6083.png">
 
 
 
