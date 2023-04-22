@@ -50,6 +50,8 @@ Dataset contains following image combinations for different constructor teams:
 * Renault : 323 Images
 * Williams : 340 Images
 
+Note: snapshot of the dataset is uploaded to this repo.
+
 # Preprocessing
 For image processing, [imgaug](https://imgaug.readthedocs.io/en/latest/) package was utilized.
 
