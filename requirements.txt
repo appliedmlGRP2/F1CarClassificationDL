@@ -1,8 +1,11 @@
 torch
 imgaug
 torchvision
-PIL
-skimage 
+Pillow
 sklearn
 seaborn
 matplotlib
+flask
+lime
+scikit-image
+seaborn
